@@ -1,4 +1,4 @@
-# Clock
+# Flip-Clock
 ⌚  
 inspire by [花果山大圣](https://github.com/shengxinjing)  
 inspire by [flip-clock](https://github.com/1isten/flip-clock)  
