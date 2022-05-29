@@ -10,3 +10,4 @@ inspire by [MD Clock](https://apps.apple.com/cn/app/md-clock-live-in-the-present
 - [在线预览](http://clock.jinga.vip)   
 # Todo
 - [ ] 全屏/退出全屏按钮
+- [ ] 天气
