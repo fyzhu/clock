@@ -193,24 +193,6 @@ body {
   border-bottom-right-radius: 0;
 }
 
-.digit-left,
-.digit-left::before,
-.digit-left::after,
-.digit-left .card,
-.digit-left .card-face {
-  /* border-top-right-radius: 0; */
-  /* border-bottom-right-radius: 0; */
-}
-
-.digit-right,
-.digit-right::before,
-.digit-right::after,
-.digit-right .card,
-.digit-right .card-face {
-  /* border-top-left-radius: 0; */
-  /* border-bottom-left-radius: 0; */
-}
-
 .colon {
   color: black;
   margin: 0 6px;
