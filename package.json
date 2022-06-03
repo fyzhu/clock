@@ -1,0 +1,23 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "⌚   inspire by [花果山大圣](https://github.com/shengxinjing)   inspire by [flip-clock](https://github.com/1isten/flip-clock)   inspire by [MD Clock](https://apps.apple.com/cn/app/md-clock-live-in-the-present/id1536358464?l=en)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fyzhu/clock.git"
+  },
+  "author": {
+    "name": "fyzhu",
+    "email": "i@zhuyunfeng.com",
+    "url": "https://zhuyunfeng.com/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fyzhu/clock/issues"
+  },
+  "homepage": "https://github.com/fyzhu/clock#readme"
+}
